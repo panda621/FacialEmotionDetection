@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FacialEmotionDetection/static/css/main.e6c13ad2.css",
+    "main.js": "/FacialEmotionDetection/static/js/main.10c08a18.js",
+    "index.html": "/FacialEmotionDetection/index.html",
+    "main.e6c13ad2.css.map": "/FacialEmotionDetection/static/css/main.e6c13ad2.css.map",
+    "main.10c08a18.js.map": "/FacialEmotionDetection/static/js/main.10c08a18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10c08a18.js"
+  ]
+}
